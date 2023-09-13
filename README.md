@@ -40,8 +40,8 @@ I've learned to better understand the 'mobile first' approach, which means that 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [[Add solution URL here](https://your-solution-url.com)]
+- Live Site URL: (https://lamakira.github.io/fylo-landing-page/)
 
 ### Built with
 
