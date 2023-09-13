@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](Screenshot%202023-09-10%20at%2003-17-18%20Huddle%20Landing%20Page.png)
+![](Screenshot%202023-09-13%20at%2012-53-19%20Fylo%20Landing%20Page.png)
 
 ## My process
 
